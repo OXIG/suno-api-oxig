@@ -1,3 +1,4 @@
+/*
 import { NextResponse, NextRequest } from "next/server";
 import { cookies } from 'next/headers';
 import { DEFAULT_MODEL, sunoApi } from "@/lib/SunoApi";
@@ -104,3 +105,4 @@ export async function OPTIONS(request: Request) {
     headers: corsHeaders
   });
 }
+*/
